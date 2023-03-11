@@ -1,10 +1,3 @@
-'''
-Projet d'algorithmique des graphes
--Deltour Maxence
--Diar Dia Modou
--Makhloufi Khalil
-
-'''
 from collections import defaultdict
 import heapq
 
